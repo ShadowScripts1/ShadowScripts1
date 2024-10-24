@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shadow%20Scripter&fontSize=70&animation=fadeIn&fontAlignY=35&descAlignY=50&desc=Full%20Stack%20Web%20Developer&descAlign=62)
 
-[![MasterHead](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)](https://www.linkedin.com/in/chidera-eric-13870922b/)
 
 <div align="center">
   <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif" height="200px">
