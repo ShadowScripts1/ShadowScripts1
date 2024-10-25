@@ -67,7 +67,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowScripts1&theme=dracula&hide_border=true" alt="GitHub Streak Stats">
 </p>
----
+
 
 
 <div align="center">
@@ -75,7 +75,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
   </a>
 </div>
----
+
 
 ### ⚡️ Today's Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
