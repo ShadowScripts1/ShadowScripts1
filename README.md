@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shadow%20Scripter&fontSize=70&animation=fadeIn&fontAlignY=35&descAlignY=50&desc=Full%20Stack%20Web%20Developer&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:92fe9d&height=200&section=header&text=Shadow%20Scripter&fontSize=75&animation=fadeIn&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=70&descAlign=50)
 
 
 <div align="center">
@@ -83,4 +83,6 @@ Here's an updated skills section with a blend of your provided expertise and Dev
 ### ⚡️ Today's Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&descAlignY=51&descAlign=62&desc=Thanks%20for%20stopping%20by!&descAlign=62)
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:92fe9d,100:00c9ff&height=120&section=footer&text=Thanks%20for%20Stopping%20By!&fontSize=30&fontAlignY=50&desc=Feel%20free%20to%20connect%20with%20me%20on%20LinkedIn%20and%20GitHub!&descAlign=50&descAlignY=70)
+
