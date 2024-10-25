@@ -17,10 +17,10 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://twitter.com/ShadowScripts1_git" target="blank">
+  <a href="https://x.com/ShadowScripts1" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/chidera-eric-13870922b/" target="blank">
+  <a href="https://www.linkedin.com/in/chidera-eric-godswill-aniude" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ShadowScripts1@proton.me">
