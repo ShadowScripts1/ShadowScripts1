@@ -68,8 +68,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowScripts1&theme=dracula&hide_border=true" alt="GitHub Streak Stats">
 </p>
 ---
-# 📊Top Langs :
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowScripts1&theme=react&langs_count=10&layout=compact)](https://github.com/ShadowScripts1)<br/> 
+### 📊Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowScripts1&theme=react&langs_count=10&layout=compact)](https://github.com/ShadowScripts1)
 ---
 
 <div align="center">
