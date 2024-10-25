@@ -47,10 +47,10 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadowScripts1&theme=dracula&hide_border=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowScripts1&theme=dracula&langs_count=10&layout=compact&hide_border=true)
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowScripts1&theme=dracula&hide_border=true" alt="GitHub Streak Stats">
+</p>
+
 
 ---
 
