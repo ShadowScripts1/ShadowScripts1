@@ -34,11 +34,6 @@
 
 ---
 
-### 🛠 Skills
-Here's an updated skills section with a blend of your provided expertise and DevOps additions, along with network engineering skills like Apache and CMS/Cloud tools. This should comprehensively represent your diverse skill set:
-
----
-
 ## 🛠 Skills
 
 ### 🎨 Frontend Development
