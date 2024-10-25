@@ -19,21 +19,6 @@ In this space, I’ll share my journey and guide you through the skills I’m ma
 
 ---
 
-### Key Features
-- **Headings:** Use of headers to make sections clear.
-- **Bold Text:** Important points are highlighted for emphasis.
-- **Structured Flow:** The content flows logically, enhancing readability.
-
-Feel free to copy and paste this directly into your README file!
-
-<p align="center">
-  A passionate web developer from Nigeria, ready to create amazing experiences!
-</p>
-
-
-
----
-
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://x.com/ShadowScripts1" target="blank">
