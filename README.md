@@ -35,14 +35,40 @@
 ---
 
 ### 🛠 Skills
-**Frontend Development:**
-- HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js
+Here's an updated skills section with a blend of your provided expertise and DevOps additions, along with network engineering skills like Apache and CMS/Cloud tools. This should comprehensively represent your diverse skill set:
 
-**Backend Development:**
-- PHP (Laravel), Node.js (Express), MySQL, MongoDB
+---
 
-**Other Skills:**
-- SCSS, Git, Figma, Jest, Linux
+## 🛠 Skills
+
+### 🎨 Frontend Development
+- **Languages:** HTML5, SCSS (CSS), JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries:** React.js, Next.js, AngularJS
+- **Tools & Technologies:** Figma, Jest, Browser Developer Tools
+
+### 📌 Backend Development
+- **Languages & Frameworks:** PHP (Laravel), Node.js (Express), Procedural Programming, OOP
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+### 🚀 Cloud/DevOps & Network Engineering
+- **Version Control:** Git
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows
+- **CI/CD & Automation:** Docker, Jenkins, GitHub Actions, Gulp, Grunt
+- **Cloud Providers:** AWS (EC2, S3, RDS), Google Cloud, Microsoft Azure
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+- **Web Servers & Caching:** Apache, Nginx, Redis
+- **LAMP Stack:** Linux, Apache, MySQL, PHP
+
+### 🌐 CMS & E-Commerce
+- **Content Management Systems:** WordPress (Advanced Custom Fields), Vercel
+
+### 🧰 Other Skills
+- **Collaboration & Project Management Tools:** Jira, Trello, Slack, ClickUp, Zoom
+- **Testing Frameworks:** Mocha, Chai, Jest
+- **Package Managers & Task Runners:** NPM, Yarn, Gulp, Grunt
+- **IDE & Tools:** VSCode, PhpStorm, GitHub, MySQL Workbench
+
 
 ---
 
