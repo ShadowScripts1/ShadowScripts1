@@ -100,10 +100,10 @@ In this space, I’ll share my journey and guide you through the skills I’m ma
     <!-- GitHub Stats Card -->
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShadowScripts1&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="ShadowScripts1's GitHub Stats" />
     
-    <!-- Top Languages Card -->
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowScripts1&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="ShadowScripts1's Top Languages" />
+    
   </div>
-
+<!-- Top Languages Card -->
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowScripts1&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="ShadowScripts1's Top Languages" />
   <br /><br />
 
   <!-- Buy Me A Coffee -->
