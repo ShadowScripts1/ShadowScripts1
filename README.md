@@ -30,6 +30,15 @@ In this space, I’ll share my journey and guide you through the skills I’m ma
   <a href="mailto:ShadowScripts1@proton.me">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://t.me/shadowscripters" target="blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029VagUyhHFCCoWzOagUU2p" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/your-channel-id" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -67,17 +76,38 @@ In this space, I’ll share my journey and guide you through the skills I’m ma
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowScripts1&theme=dracula&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
-
+## 📊 GitHub Stats
 
 <div align="center">
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=ShadowScripts1&color=blueviolet" alt="Profile views" />
+  
+  <!-- GitHub Followers and Stars -->
+  <a href="https://github.com/ShadowScripts1?tab=followers">
+    <img src="https://img.shields.io/github/followers/ShadowScripts1?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/ShadowScripts1?label=Stars&style=social" alt="GitHub Stars" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowScripts1&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <!-- GitHub Stats Card -->
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShadowScripts1&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="ShadowScripts1's GitHub Stats" />
+    
+    <!-- Top Languages Card -->
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowScripts1&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="ShadowScripts1's Top Languages" />
+  </div>
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=ShadowScripts1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="ShadowScripts1's Activity Graph" />
+
+  <!-- Buy Me A Coffee -->
   <a href="https://www.buymeacoffee.com/ShadowScripts1" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
   </a>
+
 </div>
 
 
