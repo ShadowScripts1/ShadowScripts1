@@ -101,7 +101,6 @@ In this space, I’ll share my journey and guide you through the skills I’m ma
 <!-- Top Languages Card -->
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowScripts1&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" alt="ShadowScripts1's Top Languages" />
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=ShadowScripts1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="ShadowScripts1's Activity Graph" />
 
   <!-- Buy Me A Coffee -->
   <a href="https://www.buymeacoffee.com/ShadowScripts1" target="_blank">
@@ -110,6 +109,7 @@ In this space, I’ll share my journey and guide you through the skills I’m ma
 
 </div>
 
+  <img src="https://activity-graph.herokuapp.com/graph?username=ShadowScripts1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="ShadowScripts's Activity Graph" />
 
 ### ⚡️ Today's Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
