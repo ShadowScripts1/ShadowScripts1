@@ -107,7 +107,7 @@ In this space, I’ll share my journey and guide you through the skills I’m ma
   <br /><br />
 
   <!-- Buy Me A Coffee -->
-  <a href="https://www.buymeacoffee.com/ShadowScripts1" target="_blank">
+  <a href="https://buymeacoffee.com/shadowscripts1" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
   </a>
 
